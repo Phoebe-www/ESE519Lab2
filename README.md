@@ -1,4 +1,4 @@
-# ESE519Lab2
+# ESE519Lab2_setup_guide
 Siyun Wang
 
 Tested on: DELL Inspiron 5505, Windows 10
