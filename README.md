@@ -41,8 +41,17 @@ Execute the below commands in the command line.
 
 ##  Building "Hello World" from the Command Line
 From the Windows menu, select Windows > Visual Studio 2022 > Developer Command Prompt for VS 2022 to open a Developer Command Prompt window.
+
 ![image](https://user-images.githubusercontent.com/113930091/194971937-63516c17-8d44-4bc1-9444-9af56b5c50e3.png)
 
 Close our current Command Prompt window and open a second Developer Command Prompt window, and this environment variable will be set correctly before proceeding.
+
 ![image](https://user-images.githubusercontent.com/113930091/194972227-4c27772b-81e4-4b3f-b5c4-c6d664571209.png)
+
+
+## SERIAL CONSOLE – PuTTY
+Download the latest version of PuTTY.
+
+![image](https://user-images.githubusercontent.com/113930091/194973213-a103e311-c415-46f1-9530-b4ccb7affe04.png)
+
 
