@@ -27,3 +27,12 @@ Choose Windows x64 ZIP.(https://cmake.org/download/)
 ![image](https://user-images.githubusercontent.com/113930091/194970335-a58f8ea6-cb52-49e8-90d6-597064674835.png)
 
 ## 4. Python 3.10
+(https://www.python.org/downloads/windows/)
+![image](https://user-images.githubusercontent.com/113930091/194970578-7100e27c-819b-4fa2-a82c-e17b23e91d14.png)
+
+## 5. Git
+(https://git-scm.com/download/win)
+![image](https://user-images.githubusercontent.com/113930091/194970740-5ab91d2e-aacb-4570-a4e4-9e0dea8bfdce.png)
+
+## Getting the SDK and examples
+![image](https://user-images.githubusercontent.com/113930091/194971075-f1e47f75-1b14-4402-8e20-4f64a8d1e5ba.png)
