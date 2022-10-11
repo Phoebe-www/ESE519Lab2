@@ -1,4 +1,5 @@
 # ESE519Lab2
+Siyun Wang
 Tested on: DELL Inspiron 5505, Windows 10
 
 ## Terminal
@@ -62,6 +63,7 @@ Download the latest version of PuTTY.
  ![image](https://user-images.githubusercontent.com/113930091/194975418-915e11eb-2bd6-4b1e-aab7-280279866185.png)
 
 ## Flashing and Running "Hello World"
-Before plugging in, press and hold "reset" button. After plugging in, press and release the BOOTSEL button to force it into USB mass storage mode. The board should automatically display as an external drive. You can can now drag and drop U2 binaries onto the external drive.
-Now we can see "Hello world!" being printed in the serial console.
+-Before plugging in, press and hold "reset" button. After plugging in, press and release the BOOTSEL button to force it into USB mass storage mode. The board should automatically display as an external drive. You can can now drag and drop U2 binaries onto the external drive.
+-Now we can see "Hello world!" being printed in the serial console.
+
 ![image](https://user-images.githubusercontent.com/113930091/194976249-8778978b-d556-447c-9ea9-3e233cbec232.png)
