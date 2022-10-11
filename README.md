@@ -59,5 +59,9 @@ Download the latest version of PuTTY.
  
  After the board plugged in, you could find something new in the list with (COM_) where _ is a number.
  ![image](https://user-images.githubusercontent.com/113930091/194974140-9bec9b2f-9cbf-42b0-b394-939a290509c8.png)
+ ![image](https://user-images.githubusercontent.com/113930091/194975418-915e11eb-2bd6-4b1e-aab7-280279866185.png)
 
-
+## Flashing and Running "Hello World"
+Before plugging in, press and hold "reset" button. After plugging in, press and release the BOOTSEL button to force it into USB mass storage mode. The board should automatically display as an external drive. You can can now drag and drop U2 binaries onto the external drive.
+Now we can see "Hello world!" being printed in the serial console.
+![image](https://user-images.githubusercontent.com/113930091/194976249-8778978b-d556-447c-9ea9-3e233cbec232.png)
