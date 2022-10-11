@@ -34,5 +34,15 @@ Choose Windows x64 ZIP.(https://cmake.org/download/)
 (https://git-scm.com/download/win)
 ![image](https://user-images.githubusercontent.com/113930091/194970740-5ab91d2e-aacb-4570-a4e4-9e0dea8bfdce.png)
 
+
 ## Getting the SDK and examples
+Execute the below commands in the command line.
 ![image](https://user-images.githubusercontent.com/113930091/194971075-f1e47f75-1b14-4402-8e20-4f64a8d1e5ba.png)
+
+##  Building "Hello World" from the Command Line
+From the Windows menu, select Windows > Visual Studio 2022 > Developer Command Prompt for VS 2022 to open a Developer Command Prompt window.
+![image](https://user-images.githubusercontent.com/113930091/194971937-63516c17-8d44-4bc1-9444-9af56b5c50e3.png)
+
+Close our current Command Prompt window and open a second Developer Command Prompt window, and this environment variable will be set correctly before proceeding.
+![image](https://user-images.githubusercontent.com/113930091/194972227-4c27772b-81e4-4b3f-b5c4-c6d664571209.png)
+
