@@ -54,4 +54,10 @@ Download the latest version of PuTTY.
 
 ![image](https://user-images.githubusercontent.com/113930091/194973213-a103e311-c415-46f1-9530-b4ccb7affe04.png)
 
+ Open Device Manager. Click on Ports (COM & LPT).
+ ![image](https://user-images.githubusercontent.com/113930091/194973529-8b40bc4f-8b80-48f7-a61d-4f8d245c0e9a.png)
+ 
+ After the board plugged in, you could find something new in the list with (COM_) where _ is a number.
+ ![image](https://user-images.githubusercontent.com/113930091/194974140-9bec9b2f-9cbf-42b0-b394-939a290509c8.png)
+
 
