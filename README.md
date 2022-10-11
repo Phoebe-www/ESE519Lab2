@@ -23,4 +23,7 @@ Choose Windows x64 ZIP.(https://cmake.org/download/)
 ![image](https://user-images.githubusercontent.com/113930091/194970085-8986309e-7285-40b9-a8d9-d7d390ed56f2.png)
 
 ## 3. Build Tools for Visual Studio 2022
+(https://visualstudio.microsoft.com/zh-hans/downloads/)
 ![image](https://user-images.githubusercontent.com/113930091/194970335-a58f8ea6-cb52-49e8-90d6-597064674835.png)
+
+## 4. Python 3.10
